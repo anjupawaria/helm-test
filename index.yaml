@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vjobdeployment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-13T13:52:23.094519177-04:00"
+    description: A Helm chart for Kubernetes
+    digest: c1886a3760333274a2daf4c1808e7afbd1c385c2690ddbee7d5fcdda63e7750f
+    name: vjobdeployment
+    type: application
+    urls:
+    - https://anjupawaria.github.io/helm-test/vjobdeployment-1.1.tgz
+    version: "1.1"
+generated: "2020-10-13T13:52:23.092823912-04:00"
